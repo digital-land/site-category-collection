@@ -1,4 +1,4 @@
-# Site Category collection
+# Site Category collection ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/site-category-collection/blob/master/LICENSE)
 
